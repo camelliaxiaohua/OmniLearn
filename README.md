@@ -9,3 +9,7 @@ OmniLearn serves as a curated guide, connecting you to a wide range of learning 
 OmniLearn作为一个精心策划的指南，为您连接多学科领域的广泛学习资源和仓库。浏览整理好的目录，找到涵盖各种主题、教程、指南、资源和参考资料的链接，全都精选，助您顺利展开学习之旅。
 
 ---
+
+# 导航（Navigation）
+
+## - [JDBC](https://github.com/camelliaxiaohua/JDBC)
