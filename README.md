@@ -16,4 +16,4 @@ OmniLearn作为一个精心策划的指南，为您连接多学科领域的广�
 
 ## - [Java WEB](https://github.com/camelliaxiaohua/JavaWeb/tree/master)
 
-## -[设计模式](https://github.com/camelliaxiaohua/OmniLearn/blob/main/design/patterns/readme.md)
+## - [设计模式](https://github.com/camelliaxiaohua/OmniLearn/blob/main/design/patterns/readme.md)
